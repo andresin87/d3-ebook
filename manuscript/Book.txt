@@ -1,3 +1,4 @@
-chapter1.txt
-chapter2.txt
+index.md
+chapter1.md
+chapter2.md
 
