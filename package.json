@@ -1,0 +1,24 @@
+{
+  "name": "d3-ebook",
+  "version": "0.0.1",
+  "description": "React D3v4 definitivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresin87/d3-ebook.git"
+  },
+  "keywords": [
+    "[\"react\"",
+    "\"D3\"",
+    "\"Javascript\"]"
+  ],
+  "author": "@andresin87 - Andr�és Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresin87/d3-ebook/issues"
+  },
+  "homepage": "https://github.com/andresin87/d3-ebook#readme"
+}
