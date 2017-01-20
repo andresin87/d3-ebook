@@ -10,3 +10,6 @@ Su distrubición se realiza mediante la plataforma anteriormente mencionada bajo
 - [PDF](https://leanpub.com/s/2QvrsQXcS7RRONhqE_R0lA.pdf)
 - [epub](https://leanpub.com/s/2QvrsQXcS7RRONhqE_R0lA.epub)
 - [mobi](https://leanpub.com/s/2QvrsQXcS7RRONhqE_R0lA.mobi)
+
+##### Config page:
+[Admin mode only](https://leanpub.com/d3jsdefinitivo/preview)
