@@ -1,1 +1,5 @@
+# Webstorm project configuration files
 .idea
+
+# Mac garbage
+.DS_store
